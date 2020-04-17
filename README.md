@@ -2,7 +2,7 @@
 
 A simple JavaScript program that can include HTML files into other HTML files. The most useful case for this is nav menus and footers, or any other HTML sections which are displayed on several different pages. This program makes it so that you only have to update one file, and the changes are made to all the pages which are displaying the file.
 
-[demo](https://mdgiii.github.io/includeHTML/)
+[Demo](https://mdgiii.github.io/includeHTML/)
 
 ## Installation Guide
 
@@ -16,4 +16,4 @@ A simple JavaScript program that can include HTML files into other HTML files. T
 
 4. Don't forget to call the function! Copy `<script>includeHTML();</script>` to the bottom of the body tag.
 
-Credit: [https://www.w3schools.com/howto/howto_html_include.asp](https://www.w3schools.com/howto/howto_html_include.asp)
+Credit: [w3schools.com](https://www.w3schools.com/howto/howto_html_include.asp)
