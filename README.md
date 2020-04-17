@@ -8,7 +8,7 @@ A simple JavaScript program that can include HTML files into other HTML files. T
 
 2. Move the `includeHTML.js` file to the root of your website/web app.
 
-3. Place `<script src="/includeHTML.js"></script>` at the bottom of the head tag on the pages you wish to include files to.
+3. Place `<script src="includeHTML.js"></script>` at the bottom of the head tag on the pages you wish to include files to.
 
 3. Define where and what you want to be included by placing `<div include-html="sample.html"></div>` anywhere within the body tag of the pages you wish to include files to. **IMPORTANT** Make sure to replace "smaple" with the name of the HTML file you wish to be included.
 
